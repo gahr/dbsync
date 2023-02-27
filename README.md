@@ -9,9 +9,6 @@ $ dbsync [-q] [-y] [lf rf ...]
     -y   Answer "yes" to any question
     lf   Local file
     rf   Remote file
-
-Many files can be sync'd at once by interleaving local and remote file names.
-
 ```
 
-
+Many files can be sync'd at once by interleaving local and remote file names.
